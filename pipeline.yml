@@ -11,4 +11,6 @@ jobs:
     - get: git-repo
       trigger: true
     - task: build-and-verify
-      file: git-repo/excersise1/ci/mvn-build.yml
+      run:
+        path: bash
+        args: [git-repo/excersise1/ci/mvn-build.yml]
