@@ -1,3 +1,3 @@
 #!/bin/bash
 ls --all
-mvn -f git-repo/pom.xml test
+mvn -f pom.xml test
