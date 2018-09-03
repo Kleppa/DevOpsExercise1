@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mvn -f git-repo/exersise1/pom.xml test
+mvn -f git-repo/pom.xml test
