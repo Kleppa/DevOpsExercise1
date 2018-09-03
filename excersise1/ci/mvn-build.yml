@@ -7,4 +7,4 @@ inputs:
   - name: git-repo
 
 run:
-  path: git-repo/exersise1/ci/mvn-build.sh
+  path: git-repo/excersise1/ci/mvn-build.sh
