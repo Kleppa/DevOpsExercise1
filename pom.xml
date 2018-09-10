@@ -22,4 +22,13 @@
     </build>
     <name>devOpsTest</name>
 
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>LATEST</version>
+        </dependency>
+    </dependencies>
+
 </project>
